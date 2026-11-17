@@ -7,7 +7,7 @@ Standalone two-player chess clock, a stepping stone toward a custom electronic c
 - Git repo: github.com/rek/chess-system (public). Only the .ino sketches and .md notes are
   tracked; case designs (case.blend, models/*.stl) stay local on purpose.
 - `max7219_test/`: display test sketch (1234, 10.00, clear, digits, brightness). **Working.**
-- `chess_clock/`: the clock sketch. Compiled; upload pending (Nano was unplugged).
+- `chess_clock/`: the clock sketch. **Working** on the Nano (tested 2026-11-17).
 - `NOTES.md`: this file.
 
 ## Build and upload
