@@ -1,0 +1,6 @@
+# Only the firmware and notes are tracked. Case designs (Blender, STL) stay local.
+*
+!*/
+!.gitignore
+!*.md
+!*.ino
